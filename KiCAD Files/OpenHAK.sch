@@ -28,7 +28,7 @@ LIBS:opto
 LIBS:atmel
 LIBS:contrib
 LIBS:valves
-LIBS:OpenHAK_beta-cache
+LIBS:OpenHAK-cache
 EELAYER 25 0
 EELAYER END
 $Descr A 8500 11000 portrait
@@ -602,7 +602,7 @@ F 3 "" H 3450 2700 50  0000 C CNN
 	1    3450 2700
 	0    1    1    0   
 $EndComp
-Text Label 3450 2550 0    60   ~ 0
+Text Label 4450 2550 0    60   ~ 0
 V_SENSE
 $Comp
 L NCP551 U6
@@ -884,13 +884,13 @@ Wire Wire Line
 Wire Wire Line
 	3200 2700 3300 2700
 Wire Wire Line
-	3600 2700 3700 2700
+	3600 2700 3900 2700
 Wire Wire Line
 	3700 2700 3700 2750
 Wire Wire Line
 	3250 2700 3250 2550
 Wire Wire Line
-	3250 2550 3450 2550
+	3250 2550 4450 2550
 Connection ~ 3250 2700
 Wire Wire Line
 	4950 8900 6650 8900
@@ -1203,4 +1203,21 @@ Text Label 6800 6200 1    60   ~ 0
 PIN_3
 Text Label 2950 6500 3    60   ~ 0
 V_SENSE
+$Comp
+L C C?
+U 1 1 5A972CCB
+P 4050 2700
+F 0 "C?" V 4100 2550 50  0000 L CNN
+F 1 "1uF" V 4100 2800 50  0000 L CNN
+F 2 "Capacitors_SMD:C_0603" H 4088 2550 50  0001 C CNN
+F 3 "" H 4050 2700 50  0000 C CNN
+	1    4050 2700
+	0    1    1    0   
+$EndComp
+Connection ~ 3700 2700
+Wire Wire Line
+	4200 2700 4300 2700
+Wire Wire Line
+	4300 2700 4300 2550
+Connection ~ 4300 2550
 $EndSCHEMATC

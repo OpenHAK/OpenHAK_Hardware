@@ -28,17 +28,15 @@ LIBS:opto
 LIBS:atmel
 LIBS:contrib
 LIBS:valves
-LIBS:OpenBCI
-LIBS:Solutions
-LIBS:PulsePatch-cache
+LIBS:OpenHAK_beta-cache
 EELAYER 25 0
 EELAYER END
 $Descr A 8500 11000 portrait
 encoding utf-8
 Sheet 1 1
-Title "PulsePatch"
-Date ""
-Rev ""
+Title "OpenHAK beta"
+Date "7/25/17"
+Rev "0.1"
 Comp "Solutions Design & Prototyping"
 Comment1 ""
 Comment2 ""
