@@ -1,3 +1,4 @@
+*.bak
+*.ods
+OpenHAK_03-cache.lib
 
-OpenHAK_BOM.csv
-.~lock.OpenHAK_BOM.csv#

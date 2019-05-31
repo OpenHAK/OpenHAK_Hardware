@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name OpenHAK_03)(type Legacy)(uri ${KIPRJMOD}/Library/OpenHAK_03.lib)(options "")(descr ""))
+)
