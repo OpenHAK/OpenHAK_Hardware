@@ -4,4 +4,4 @@
 KiCad files for the beta OpenHAK boards.
 
 
-**Warning** Siblees don't exist!
+**WARNING** Siblees don't exist!
