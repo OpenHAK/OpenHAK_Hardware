@@ -6,7 +6,7 @@ KiCad files for the beta OpenHAK boards.
 
 ### WARNING: Siblees don't exist!
 
-Hi, here you'll find everything that you need to make yourself your very own OpenHAK**!** If, that is, you have any spare [Simblees](https://www.digikey.com/product-detail/en/rf-digital-corporation/RFD77101/1562-1034-ND/5723430) lying around. Should you do have some Simblees that are just taking up space, then you're in luck! Simblees are very well trained to handle reflow with a hot air gun or toaster oven many, many times. Trust me, they are tough buggers. If you *don't* have any Simblees propping open your window or shimming up your wobbly cafe table, then you're out of luck... Or are you....?
+Hi. Here you'll find everything that you need to make yourself your very own OpenHAK**!** If, that is, you have any spare [Simblees](https://www.digikey.com/product-detail/en/rf-digital-corporation/RFD77101/1562-1034-ND/5723430) lying around. Should you do have some Simblees that are just taking up space, then you're in luck! Simblees are very well trained to handle reflow with a hot air gun or toaster oven many, many times. Trust me, they are tough buggers. If you *don't* have any Simblees propping open your window or shimming up your wobbly cafe table, then you're out of luck... Or are you....?
 
 ## What's going on?
 
