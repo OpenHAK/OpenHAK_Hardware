@@ -27,7 +27,7 @@ So glad you asked. Right now, we are engaging with our beta testers and the hard
 * MAX30101
 	* Yes, it's a MAX integrated heart rate sensor that plays well with [link to sparkfun library]. In the BETA version we are using the MAX3010**1** variant. If you've ever used them they are super fun to play with. **We know.** It's not easy to get heart rate off of the wrist/ankle. It's not impossible, but it's hard. That's part of the reason why we're doing this, to see how an open-source community can come together and find creative ways to solve this among many problems.
 * ACCESSORIES
-	* We are breaking out a handful of pins (8 for the BETA version) that are user accessible. These are useful as an Arduino compatible program interface. Also, um, maybe driving an OLED display? To, maybe, let you know when your friend is texting you ('cause it's connected to your phone...). It could also drive an ERM (vibrator, ahem) to provide haptic feedback about stuff. The point is that since it's open-source, it's up to you. We will put up PCB design guidelines and templates so that you can create the thing you want to wear on your wrist/ankle/ahem.
+	* We are breaking out a handful of pins (8 for the BETA version) that are user accessible. These are useful as an Arduino compatible program interface. Also, um, maybe driving an OLED display? To, maybe, let you know when your friend is texting you ('cause it's connected to your phone...)? It could also drive an ERM (vibrator, ahem) to provide haptic feedback about stuff. The point is that since it's open-source, it's up to you. We will put up PCB design guidelines and templates so that you can create the thing you want to wear on your wrist/ankle/ahem.
 
 ## What else
 
