@@ -23,7 +23,7 @@ So glad you asked. Right now, we are engaging with our beta testers and the hard
 * BLE
 	* Yes, it's a Simblee, but it's still a pretty awesome BTLE module that can do some incredibly cool stuff. We are supporting our very own OpenHAK Arduino board variant that is based on the the original Simblee board files. We've made it easy to create the .zip packet you need to upload new code over-the-air. Every OpenHAK comes preprogrammed with Nordic's DFU library installed, so you can write your own firmware and upload it over the air from your phone to your OpenHAK.
 * BMI160
-	* This multi-axis MEMS monster is what we're using to count your steps, and interface with your finger tapy tap taps. We are revealing full access to it's inner guts so you can transmogrify the OpenHAK into a gesture controller so you can control your monster robot to slay your adversary's monster robot(s) with a simple gesture.
+	* This multi-axis MEMS monster is what we're using to count your steps, and interface with your finger tapy tap taps. We are revealing full access to it's inner guts for you to transmogrify the OpenHAK into a gesture controller so you can control your monster robot to slay your adversary's monster robot(s) with a simple gesture.
 * MAX30101
 	* Yes, it's a MAX integrated heart rate sensor that plays well with [link to sparkfun library]. In the BETA version we are using the MAX3010**1** variant. If you've ever used them they are super fun to play with. **We know.** It's not easy to get heart rate off of the wrist/ankle. It's not impossible, but it's hard. That's part of the reason why we're doing this, to see how an open-source community can come together and find creative ways to solve this among many problems.
 * ACCESSORIES
