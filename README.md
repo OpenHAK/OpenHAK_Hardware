@@ -37,4 +37,4 @@ The board is fit with physical features that will capture pins from an 18mm watc
 We placed the MAX3010x sensor all by itself on the (recommended) skin side of the board. We did this to facilitate enclosure design. We have a prototype case (link) that performs well under reasonable circumstances (no, we haven't mountain-biked in a wintery mix with it yet...).
 
 
-If you've gotten this far then you're only halfway down! Keep mining this repo and, don't be shy, we're only an issue away! 
+If you've gotten this far then you're not even halfway down! Keep mining this repo and, don't be shy, we're only an issue away! 
