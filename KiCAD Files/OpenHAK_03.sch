@@ -1,4 +1,5 @@
 EESchema Schematic File Version 4
+LIBS:OpenHAK_03-cache
 EELAYER 26 0
 EELAYER END
 $Descr A 8500 11000 portrait
@@ -1241,8 +1242,8 @@ Wire Wire Line
 Connection ~ 6050 2050
 Wire Wire Line
 	6050 2050 6200 2050
-Text Notes 7050 6050 0    60   ~ 0
-GPIO 3 / ANALOG 4\nGPIO 1 / ANALOG 2\nGPIO 2 / ANALOG 3\nGPIO 0 / AREF 0\nGPIO 25\n
+Text Notes 7050 6250 0    60   ~ 0
+GPIO 3 / ANALOG 4\nGPIO 1 / ANALOG 2\nGPIO 2 / ANALOG 3\nGPIO 0 / AREF 0\nGPIO 25\nGPIO 24\nGPIO 21\n
 Wire Wire Line
 	1900 1350 1900 1400
 Wire Wire Line
