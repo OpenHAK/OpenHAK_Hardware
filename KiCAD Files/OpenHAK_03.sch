@@ -1,4 +1,5 @@
 EESchema Schematic File Version 4
+LIBS:OpenHAK_03-cache
 EELAYER 26 0
 EELAYER END
 $Descr A 8500 11000 portrait
@@ -237,12 +238,12 @@ Text Label 3650 6500 3    60   ~ 0
 $Comp
 L power:VDD #PWR06
 U 1 1 57CDC75F
-P 7350 1050
-F 0 "#PWR06" H 7350 900 50  0001 C CNN
-F 1 "VDD" H 7350 1200 50  0000 C CNN
-F 2 "" H 7350 1050 50  0000 C CNN
-F 3 "" H 7350 1050 50  0000 C CNN
-	1    7350 1050
+P 7500 1050
+F 0 "#PWR06" H 7500 900 50  0001 C CNN
+F 1 "VDD" H 7500 1200 50  0000 C CNN
+F 2 "" H 7500 1050 50  0000 C CNN
+F 3 "" H 7500 1050 50  0000 C CNN
+	1    7500 1050
 	1    0    0    -1  
 $EndComp
 $Comp
@@ -663,7 +664,7 @@ Wire Wire Line
 	5950 7300 6650 7300
 Connection ~ 5950 7300
 Wire Wire Line
-	7350 1150 7350 1050
+	7500 1150 7500 1050
 Wire Wire Line
 	5500 1150 5600 1150
 Wire Wire Line
@@ -675,7 +676,7 @@ Wire Wire Line
 Connection ~ 5750 1150
 Wire Wire Line
 	7500 1150 7500 1200
-Connection ~ 7350 1150
+Connection ~ 7500 1150
 Wire Wire Line
 	7500 1550 7500 1500
 Wire Wire Line
@@ -801,9 +802,7 @@ Wire Wire Line
 	1900 2000 1900 2200
 Connection ~ 1900 2200
 Wire Wire Line
-	5600 2050 5750 2050
-Wire Wire Line
-	5600 2050 5600 2000
+	5750 2050 5750 1950
 Wire Wire Line
 	5750 2100 5750 2050
 Connection ~ 5750 2050
@@ -998,8 +997,6 @@ Wire Wire Line
 Wire Wire Line
 	5950 7300 5950 7550
 Wire Wire Line
-	7350 1150 7500 1150
-Wire Wire Line
 	5600 1150 5750 1150
 Wire Wire Line
 	6050 8900 6050 8950
@@ -1182,7 +1179,7 @@ F 3 "" H 6600 1150 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
-	7050 1150 7350 1150
+	7050 1150 7500 1150
 Wire Wire Line
 	7050 1250 7200 1250
 Wire Wire Line
@@ -1226,12 +1223,12 @@ Wire Wire Line
 $Comp
 L power:VDD #PWR0101
 U 1 1 5C75E84A
-P 5600 2000
-F 0 "#PWR0101" H 5600 1850 50  0001 C CNN
-F 1 "VDD" H 5600 2150 50  0000 C CNN
-F 2 "" H 5600 2000 50  0000 C CNN
-F 3 "" H 5600 2000 50  0000 C CNN
-	1    5600 2000
+P 5750 1950
+F 0 "#PWR0101" H 5750 1800 50  0001 C CNN
+F 1 "VDD" H 5750 2100 50  0000 C CNN
+F 2 "" H 5750 1950 50  0000 C CNN
+F 3 "" H 5750 1950 50  0000 C CNN
+	1    5750 1950
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
