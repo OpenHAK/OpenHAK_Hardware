@@ -23,7 +23,7 @@ F 1 "MAX30100" H 6200 8400 60  0000 C CNN
 F 2 "Solutions:MAX30100" H 6050 8250 60  0001 C CNN
 F 3 "" H 6050 8250 60  0000 C CNN
 	1    5950 8050
-	1    0    0    -1  
+	1    0    0    -1
 $EndComp
 $Comp
 L OpenHAK_03:OpenHAK_03_rfd_77101 U1
@@ -34,7 +34,7 @@ F 1 "rfd_77101" H 3300 4350 60  0000 C CNN
 F 2 "Solutions:RFD77101" H 3250 4350 60  0001 C CNN
 F 3 "" H 3250 4350 60  0000 C CNN
 	1    3300 4350
-	1    0    0    -1  
+	1    0    0    -1
 $EndComp
 $Comp
 L Device:C C5
@@ -45,7 +45,7 @@ F 1 "10uF" H 4975 7900 50  0000 L CNN
 F 2 "Capacitors_SMD:C_0402" H 4988 7850 50  0001 C CNN
 F 3 "" H 4950 8000 50  0000 C CNN
 	1    4950 8000
-	1    0    0    -1  
+	1    0    0    -1
 $EndComp
 $Comp
 L Device:C C4
@@ -56,7 +56,7 @@ F 1 "1uF" H 4725 7900 50  0000 L CNN
 F 2 "Capacitors_SMD:C_0402" H 4738 7850 50  0001 C CNN
 F 3 "" H 4700 8000 50  0000 C CNN
 	1    4700 8000
-	1    0    0    -1  
+	1    0    0    -1
 $EndComp
 $Comp
 L Device:C C2
@@ -67,7 +67,7 @@ F 1 "1uF" H 1325 3050 50  0000 L CNN
 F 2 "Capacitors_SMD:C_0402" H 1338 3000 50  0001 C CNN
 F 3 "" H 1300 3150 50  0000 C CNN
 	1    1300 3150
-	0    1    1    0   
+	0    1    1    0
 $EndComp
 $Comp
 L Device:C C3
@@ -78,7 +78,7 @@ F 1 "10uF" H 1325 3350 50  0000 L CNN
 F 2 "Capacitors_SMD:C_0402" H 1338 3300 50  0001 C CNN
 F 3 "" H 1300 3450 50  0000 C CNN
 	1    1300 3450
-	0    1    1    0   
+	0    1    1    0
 $EndComp
 $Comp
 L Device:C C1
@@ -89,7 +89,7 @@ F 1 "0.1uF" H 1325 2800 50  0000 L CNN
 F 2 "Capacitors_SMD:C_0402" H 1338 2750 50  0001 C CNN
 F 3 "" H 1300 2900 50  0000 C CNN
 	1    1300 2900
-	0    1    1    0   
+	0    1    1    0
 $EndComp
 $Comp
 L Device:C C6
@@ -100,7 +100,7 @@ F 1 "1uF" H 6825 8800 50  0000 L CNN
 F 2 "Capacitors_SMD:C_0402" H 6838 8750 50  0001 C CNN
 F 3 "" H 6800 8900 50  0000 C CNN
 	1    6800 8900
-	0    1    1    0   
+	0    1    1    0
 $EndComp
 $Comp
 L Device:C C7
@@ -111,7 +111,7 @@ F 1 "0.1uF" H 6825 8550 50  0000 L CNN
 F 2 "Capacitors_SMD:C_0402" H 6838 8500 50  0001 C CNN
 F 3 "" H 6800 8650 50  0000 C CNN
 	1    6800 8650
-	0    -1   -1   0   
+	0    -1   -1   0
 $EndComp
 $Comp
 L Device:R R1
@@ -122,7 +122,7 @@ F 1 "10K" V 850 3250 50  0000 C CNN
 F 2 "Capacitors_SMD:C_0402" V 780 3250 50  0001 C CNN
 F 3 "" H 850 3250 50  0000 C CNN
 	1    850  3250
-	1    0    0    -1  
+	1    0    0    -1
 $EndComp
 $Comp
 L power:GND #PWR01
@@ -133,7 +133,7 @@ F 1 "GND" H 1550 2500 50  0000 C CNN
 F 2 "" H 1550 2650 50  0000 C CNN
 F 3 "" H 1550 2650 50  0000 C CNN
 	1    1550 2650
-	-1   0    0    1   
+	-1   0    0    1
 $EndComp
 $Comp
 L power:GND #PWR02
@@ -144,7 +144,7 @@ F 1 "GND" H 6050 8800 50  0000 C CNN
 F 2 "" H 6050 8950 50  0000 C CNN
 F 3 "" H 6050 8950 50  0000 C CNN
 	1    6050 8950
-	1    0    0    -1  
+	1    0    0    -1
 $EndComp
 $Comp
 L power:GND #PWR03
@@ -155,7 +155,7 @@ F 1 "GND" H 4100 6550 50  0000 C CNN
 F 2 "" H 4100 6700 50  0000 C CNN
 F 3 "" H 4100 6700 50  0000 C CNN
 	1    4100 6700
-	1    0    0    -1  
+	1    0    0    -1
 $EndComp
 $Comp
 L power:GND #PWR04
@@ -166,7 +166,7 @@ F 1 "GND" H 2500 6550 50  0000 C CNN
 F 2 "" H 2500 6700 50  0000 C CNN
 F 3 "" H 2500 6700 50  0000 C CNN
 	1    2500 6700
-	1    0    0    -1  
+	1    0    0    -1
 $EndComp
 $Comp
 L power:VDD #PWR05
@@ -177,7 +177,7 @@ F 1 "VDD" H 1050 2800 50  0000 C CNN
 F 2 "" H 1050 2650 50  0000 C CNN
 F 3 "" H 1050 2650 50  0000 C CNN
 	1    1050 2650
-	1    0    0    -1  
+	1    0    0    -1
 $EndComp
 NoConn ~ 1650 3450
 NoConn ~ 1650 3650
@@ -210,7 +210,7 @@ F 1 "100R" V 1250 5450 50  0000 C CNN
 F 2 "Capacitors_SMD:C_0402" V 1180 5450 50  0001 C CNN
 F 3 "" H 1250 5450 50  0000 C CNN
 	1    1250 5450
-	1    0    0    -1  
+	1    0    0    -1
 $EndComp
 Text Label 1250 5950 2    60   ~ 0
 R_LED
@@ -223,11 +223,11 @@ F 1 "4K7" V 6650 7500 50  0000 C CNN
 F 2 "Capacitors_SMD:C_0402" V 6580 7500 50  0001 C CNN
 F 3 "" H 6650 7500 50  0000 C CNN
 	1    6650 7500
-	1    0    0    -1  
+	1    0    0    -1
 $EndComp
-Text Label 6750 5950 2    60   ~ 0
+Text Label 6500 5650 2    60   ~ 0
 SIM_RX
-Text Label 6750 5750 2    60   ~ 0
+Text Label 6500 5450 2    60   ~ 0
 SIM_TX
 Text Label 6050 6050 2    60   ~ 0
 SIM_RST
@@ -244,7 +244,7 @@ F 1 "VDD" H 7350 1200 50  0000 C CNN
 F 2 "" H 7350 1050 50  0000 C CNN
 F 3 "" H 7350 1050 50  0000 C CNN
 	1    7350 1050
-	1    0    0    -1  
+	1    0    0    -1
 $EndComp
 $Comp
 L power:GND #PWR07
@@ -255,7 +255,7 @@ F 1 "GND" H 7200 1500 50  0000 C CNN
 F 2 "" H 7200 1650 50  0000 C CNN
 F 3 "" H 7200 1650 50  0000 C CNN
 	1    7200 1650
-	1    0    0    -1  
+	1    0    0    -1
 $EndComp
 $Comp
 L Device:C C8
@@ -266,7 +266,7 @@ F 1 "1uF" H 5775 2150 50  0000 L CNN
 F 2 "Capacitors_SMD:C_0402" H 5788 2100 50  0001 C CNN
 F 3 "" H 5750 2250 50  0000 C CNN
 	1    5750 2250
-	-1   0    0    1   
+	-1   0    0    1
 $EndComp
 $Comp
 L Device:C C9
@@ -277,7 +277,7 @@ F 1 "1uF" H 7525 2150 50  0000 L CNN
 F 2 "Capacitors_SMD:C_0402" H 7538 2100 50  0001 C CNN
 F 3 "" H 7500 2250 50  0000 C CNN
 	1    7500 2250
-	-1   0    0    1   
+	-1   0    0    1
 $EndComp
 Text Label 4900 3950 0    60   ~ 0
 MAX_INT
@@ -294,7 +294,7 @@ F 1 "GND" H 6600 5050 50  0000 C CNN
 F 2 "" H 6600 5200 50  0000 C CNN
 F 3 "" H 6600 5200 50  0000 C CNN
 	1    6600 5200
-	-1   0    0    1   
+	-1   0    0    1
 $EndComp
 $Comp
 L power:VPP #PWR09
@@ -305,7 +305,7 @@ F 1 "VPP" H 5600 1200 50  0000 C CNN
 F 2 "" H 5600 1050 50  0000 C CNN
 F 3 "" H 5600 1050 50  0000 C CNN
 	1    5600 1050
-	1    0    0    -1  
+	1    0    0    -1
 $EndComp
 $Comp
 L Device:C C10
@@ -316,7 +316,7 @@ F 1 "0.1uF" H 5800 5650 50  0000 L CNN
 F 2 "Capacitors_SMD:C_0402" H 6088 5600 50  0001 C CNN
 F 3 "" H 6050 5750 50  0000 C CNN
 	1    6050 5750
-	-1   0    0    -1  
+	-1   0    0    -1
 $EndComp
 $Comp
 L OpenHAK_03:OpenHAK_03_Battery BT1
@@ -327,7 +327,7 @@ F 1 "Battery" H 5150 1300 50  0000 L CNN
 F 2 "Connectors_JST:JST_SH_SM02B-SRSS-TB_02x1.00mm_Angled" V 5050 1390 50  0001 C CNN
 F 3 "" V 5050 1390 50  0000 C CNN
 	1    5050 1350
-	-1   0    0    -1  
+	-1   0    0    -1
 $EndComp
 $Comp
 L Device:D_Schottky D2
@@ -338,7 +338,7 @@ F 1 "D_Schottky" H 5350 1050 50  0000 C CNN
 F 2 "Capacitors_SMD:C_0603" H 5350 1150 50  0001 C CNN
 F 3 "" H 5350 1150 50  0000 C CNN
 	1    5350 1150
-	-1   0    0    1   
+	-1   0    0    1
 $EndComp
 $Comp
 L power:VPP #PWR010
@@ -349,7 +349,7 @@ F 1 "VPP" H 5150 7400 50  0000 C CNN
 F 2 "" H 5150 7250 50  0000 C CNN
 F 3 "" H 5150 7250 50  0000 C CNN
 	1    5150 7250
-	1    0    0    -1  
+	1    0    0    -1
 $EndComp
 $Comp
 L OpenHAK_03:OpenHAK_03_BMI160 U4
@@ -360,7 +360,7 @@ F 1 "BMI160" H 2100 9750 60  0000 C CNN
 F 2 "Solutions:LGA_2.5x3" H 1350 9200 60  0001 C CNN
 F 3 "" H 1350 9200 60  0000 C CNN
 	1    1850 9350
-	1    0    0    -1  
+	1    0    0    -1
 $EndComp
 Text Label 2800 9100 0    60   ~ 0
 BMI_INT1
@@ -375,7 +375,7 @@ F 1 "VDD" H 1850 8800 50  0000 C CNN
 F 2 "" H 1850 8650 50  0000 C CNN
 F 3 "" H 1850 8650 50  0000 C CNN
 	1    1850 8650
-	1    0    0    -1  
+	1    0    0    -1
 $EndComp
 $Comp
 L power:GND #PWR012
@@ -386,7 +386,7 @@ F 1 "GND" H 1850 9900 50  0000 C CNN
 F 2 "" H 1850 10050 50  0000 C CNN
 F 3 "" H 1850 10050 50  0000 C CNN
 	1    1850 10050
-	1    0    0    -1  
+	1    0    0    -1
 $EndComp
 Text Label 2800 9500 0    60   ~ 0
 3V3_SDA
@@ -401,7 +401,7 @@ F 1 "VDD" H 2800 7500 50  0000 C CNN
 F 2 "" H 2800 7350 50  0000 C CNN
 F 3 "" H 2800 7350 50  0000 C CNN
 	1    2800 7350
-	1    0    0    -1  
+	1    0    0    -1
 $EndComp
 Text Label 4900 4050 0    60   ~ 0
 BMI_INT1
@@ -420,7 +420,7 @@ F 1 "100R" V 1050 5450 50  0000 C CNN
 F 2 "Capacitors_SMD:C_0402" V 980 5450 50  0001 C CNN
 F 3 "" H 1050 5450 50  0000 C CNN
 	1    1050 5450
-	1    0    0    -1  
+	1    0    0    -1
 $EndComp
 Text Label 1050 5850 2    60   ~ 0
 G_LED
@@ -433,7 +433,7 @@ F 1 "18-225SURSYGC/S530-A4/E4/TR8" V 2600 1600 50  0000 C CNN
 F 2 "Solutions:0606_Bi-Color" H 2000 1700 50  0001 C CNN
 F 3 "" H 2000 1700 50  0000 C CNN
 	1    2000 1700
-	0    -1   -1   0   
+	0    -1   -1   0
 $EndComp
 $Comp
 L OpenHAK_03:OpenHAK_03_MCP73831 U5
@@ -444,7 +444,7 @@ F 1 "MCP73831T-2ATI/OT" H 3450 1050 60  0000 C CNN
 F 2 "TO_SOT_Packages_SMD:SOT-23-5" H 3800 1550 60  0001 C CNN
 F 3 "" H 3800 1550 60  0000 C CNN
 	1    3450 1300
-	1    0    0    -1  
+	1    0    0    -1
 $EndComp
 $Comp
 L Device:R R15
@@ -455,7 +455,7 @@ F 1 "470" V 2800 1750 50  0000 C CNN
 F 2 "Capacitors_SMD:C_0402" V 2730 1750 50  0001 C CNN
 F 3 "" H 2800 1750 50  0000 C CNN
 	1    2800 1750
-	1    0    0    -1  
+	1    0    0    -1
 $EndComp
 $Comp
 L Device:R R13
@@ -466,7 +466,7 @@ F 1 "470" V 2550 1350 50  0000 C CNN
 F 2 "Capacitors_SMD:C_0402" V 2480 1350 50  0001 C CNN
 F 3 "" H 2550 1350 50  0000 C CNN
 	1    2550 1350
-	0    1    1    0   
+	0    1    1    0
 $EndComp
 $Comp
 L Connector:USB_OTG P2
@@ -477,7 +477,7 @@ F 1 "USB_OTG" H 1000 1700 50  0000 C CNN
 F 2 "Solutions:10118193_microUSB" V 1000 1250 50  0001 C CNN
 F 3 "" V 1000 1250 50  0000 C CNN
 	1    1050 1350
-	1    0    0    -1  
+	1    0    0    -1
 $EndComp
 $Comp
 L power:GND #PWR014
@@ -488,7 +488,7 @@ F 1 "GND" H 950 1850 50  0000 C CNN
 F 2 "" H 950 2000 50  0000 C CNN
 F 3 "" H 950 2000 50  0000 C CNN
 	1    950  2000
-	1    0    0    -1  
+	1    0    0    -1
 $EndComp
 $Comp
 L Device:R R14
@@ -499,7 +499,7 @@ F 1 "10K" V 4200 1700 50  0000 C CNN
 F 2 "Capacitors_SMD:C_0402" V 4130 1700 50  0001 C CNN
 F 3 "" H 4200 1700 50  0000 C CNN
 	1    4200 1700
-	1    0    0    -1  
+	1    0    0    -1
 $EndComp
 $Comp
 L Device:C C11
@@ -510,7 +510,7 @@ F 1 "10uF" H 4475 1600 50  0000 L CNN
 F 2 "Capacitors_SMD:C_0402" H 4488 1550 50  0001 C CNN
 F 3 "" H 4450 1700 50  0000 C CNN
 	1    4450 1700
-	1    0    0    1   
+	1    0    0    1
 $EndComp
 $Comp
 L power:GND #PWR016
@@ -521,7 +521,7 @@ F 1 "GND" H 6600 3450 50  0000 C CNN
 F 2 "" H 6600 3600 50  0000 C CNN
 F 3 "" H 6600 3600 50  0000 C CNN
 	1    6600 3600
-	1    0    0    -1  
+	1    0    0    -1
 $EndComp
 $Comp
 L Device:R R7
@@ -532,7 +532,7 @@ F 1 "1M" V 5950 3550 50  0000 C CNN
 F 2 "Capacitors_SMD:C_0402" V 5880 3550 50  0001 C CNN
 F 3 "" H 5950 3550 50  0000 C CNN
 	1    5950 3550
-	0    1    1    0   
+	0    1    1    0
 $EndComp
 $Comp
 L Device:R R8
@@ -543,7 +543,7 @@ F 1 "1M" V 6350 3550 50  0000 C CNN
 F 2 "Capacitors_SMD:C_0402" V 6280 3550 50  0001 C CNN
 F 3 "" H 6350 3550 50  0000 C CNN
 	1    6350 3550
-	0    1    1    0   
+	0    1    1    0
 $EndComp
 Text Label 7250 3400 0    60   ~ 0
 V_SENSE
@@ -556,7 +556,7 @@ F 1 "1uF" H 5775 1250 50  0000 L CNN
 F 2 "Capacitors_SMD:C_0402" H 5788 1200 50  0001 C CNN
 F 3 "" H 5750 1350 50  0000 C CNN
 	1    5750 1350
-	-1   0    0    1   
+	-1   0    0    1
 $EndComp
 $Comp
 L Device:C C13
@@ -567,7 +567,7 @@ F 1 "1uF" H 7525 1250 50  0000 L CNN
 F 2 "Capacitors_SMD:C_0402" H 7538 1200 50  0001 C CNN
 F 3 "" H 7500 1350 50  0000 C CNN
 	1    7500 1350
-	-1   0    0    1   
+	-1   0    0    1
 $EndComp
 Wire Wire Line
 	1550 2650 1550 2900
@@ -817,7 +817,7 @@ F 1 "GND" H 7200 2400 50  0000 C CNN
 F 2 "" H 7200 2550 50  0000 C CNN
 F 3 "" H 7200 2550 50  0000 C CNN
 	1    7200 2550
-	1    0    0    -1  
+	1    0    0    -1
 $EndComp
 Wire Wire Line
 	5750 2400 5750 2450
@@ -837,7 +837,7 @@ F 1 "+1V8" H 7500 2090 50  0000 C CNN
 F 2 "" H 7500 1950 50  0000 C CNN
 F 3 "" H 7500 1950 50  0000 C CNN
 	1    7500 1950
-	1    0    0    -1  
+	1    0    0    -1
 $EndComp
 $Comp
 L power:+1V8 #PWR020
@@ -848,7 +848,7 @@ F 1 "+1V8" H 5950 7290 50  0000 C CNN
 F 2 "" H 5950 7150 50  0000 C CNN
 F 3 "" H 5950 7150 50  0000 C CNN
 	1    5950 7150
-	1    0    0    -1  
+	1    0    0    -1
 $EndComp
 Text Label 2650 7600 0    60   ~ 0
 3V3_SDA
@@ -863,7 +863,7 @@ F 1 "+1V8" H 1600 7490 50  0000 C CNN
 F 2 "" H 1600 7350 50  0000 C CNN
 F 3 "" H 1600 7350 50  0000 C CNN
 	1    1600 7350
-	1    0    0    -1  
+	1    0    0    -1
 $EndComp
 Text Label 1750 7700 2    60   ~ 0
 1V8_SDA
@@ -878,7 +878,7 @@ F 1 "ASMB-KTF0-0A306" V 50  5100 50  0000 C CNN
 F 2 "Solutions:CLMVB-FKA-CFHEHLCBB7a363" H 1005 5000 50  0001 C CNN
 F 3 "" H 1005 5000 50  0000 C CNN
 	1    1050 5050
-	0    -1   -1   0   
+	0    -1   -1   0
 $EndComp
 Wire Wire Line
 	1600 6600 2500 6600
@@ -891,7 +891,7 @@ F 1 "100R" V 850 5450 50  0000 C CNN
 F 2 "Capacitors_SMD:C_0402" V 780 5450 50  0001 C CNN
 F 3 "" H 850 5450 50  0000 C CNN
 	1    850  5450
-	1    0    0    -1  
+	1    0    0    -1
 $EndComp
 Wire Wire Line
 	850  5250 850  5300
@@ -912,7 +912,7 @@ F 1 "VDD" H 1050 4850 50  0000 C CNN
 F 2 "" H 1050 4700 50  0000 C CNN
 F 3 "" H 1050 4700 50  0000 C CNN
 	1    1050 4700
-	1    0    0    -1  
+	1    0    0    -1
 $EndComp
 Wire Wire Line
 	1050 4850 1050 4700
@@ -927,7 +927,7 @@ F 1 "VDD" H 6350 5350 50  0000 C CNN
 F 2 "" H 6350 5200 50  0000 C CNN
 F 3 "" H 6350 5200 50  0000 C CNN
 	1    6350 5200
-	1    0    0    -1  
+	1    0    0    -1
 $EndComp
 $Comp
 L Connector:Conn_01x10_Female P1
@@ -938,7 +938,7 @@ F 1 "Harwin M52 Series " H 6950 5150 50  0000 C CNN
 F 2 "Solutions:M52-Series_Harwin_SMT_10P" H 6950 5750 50  0001 C CNN
 F 3 "" H 6950 5750 50  0000 C CNN
 	1    6950 5750
-	1    0    0    -1  
+	1    0    0    -1
 $EndComp
 Text Label 3050 6500 3    60   ~ 0
 PIN_3
@@ -946,11 +946,11 @@ Text Label 3250 6500 3    60   ~ 0
 PIN_2
 Text Label 4900 4250 0    60   ~ 0
 PIN_25
-Text Label 6750 6050 2    60   ~ 0
+Text Label 6500 5750 2    60   ~ 0
 PIN_25
-Text Label 6750 5850 2    60   ~ 0
+Text Label 6500 5550 2    60   ~ 0
 PIN_2
-Text Label 6750 5650 2    60   ~ 0
+Text Label 6500 5350 2    60   ~ 0
 PIN_3
 Text Label 2950 6500 3    60   ~ 0
 V_SENSE
@@ -994,8 +994,6 @@ Wire Wire Line
 	4950 7800 5150 7800
 Wire Wire Line
 	6650 8000 7200 8000
-Wire Wire Line
-	6650 7300 7550 7300
 Wire Wire Line
 	5950 7300 5950 7550
 Wire Wire Line
@@ -1062,7 +1060,7 @@ F 1 "1uF" V 6800 3350 50  0000 L CNN
 F 2 "Capacitors_SMD:C_0402" H 6888 3400 50  0001 C CNN
 F 3 "" H 6850 3550 50  0000 C CNN
 	1    6850 3550
-	0    -1   -1   0   
+	0    -1   -1   0
 $EndComp
 Wire Wire Line
 	6700 3550 6600 3550
@@ -1083,7 +1081,7 @@ F 1 "GND" H 3000 8000 50  0000 C CNN
 F 2 "" H 3000 8150 50  0000 C CNN
 F 3 "" H 3000 8150 50  0000 C CNN
 	1    3000 8150
-	1    0    0    -1  
+	1    0    0    -1
 $EndComp
 Wire Wire Line
 	1600 7350 1600 7400
@@ -1102,7 +1100,7 @@ F 1 "TXS0102DQER" H 2200 7350 60  0000 C CNN
 F 2 "Solutions:X2SON8_1.4mm_x_1mm" H 2050 7800 60  0001 C CNN
 F 3 "" H 2050 7800 60  0001 C CNN
 	1    2200 7650
-	1    0    0    -1  
+	1    0    0    -1
 $EndComp
 Wire Wire Line
 	2650 7800 3000 7800
@@ -1122,7 +1120,7 @@ F 1 "0.1uF" H 1275 7550 50  0000 L CNN
 F 2 "Capacitors_SMD:C_0402" H 1288 7500 50  0001 C CNN
 F 3 "" H 1250 7650 50  0000 C CNN
 	1    1250 7650
-	-1   0    0    1   
+	-1   0    0    1
 $EndComp
 $Comp
 L Device:C C16
@@ -1133,7 +1131,7 @@ F 1 "0.1uF" H 3325 7550 50  0000 L CNN
 F 2 "Capacitors_SMD:C_0402" H 3338 7500 50  0001 C CNN
 F 3 "" H 3300 7650 50  0000 C CNN
 	1    3300 7650
-	-1   0    0    1   
+	-1   0    0    1
 $EndComp
 Wire Wire Line
 	1250 7800 1250 8050
@@ -1169,7 +1167,7 @@ F 1 "MIC5365-1.8YMT-TZ" H 6550 1750 60  0000 C CNN
 F 2 "Solutions:MLF-4 1mm x 1mm" H 6600 2050 60  0001 C CNN
 F 3 "" H 6600 2050 60  0001 C CNN
 	1    6600 2050
-	1    0    0    -1  
+	1    0    0    -1
 $EndComp
 $Comp
 L OpenHAK_03:OpenHAK_03_MIC5365-X.XYMT-TZ U6
@@ -1180,7 +1178,7 @@ F 1 "MIC5365-3.0YMT-TZ" H 6600 850 60  0000 C CNN
 F 2 "Solutions:MLF-4 1mm x 1mm" H 6600 1150 60  0001 C CNN
 F 3 "" H 6600 1150 60  0001 C CNN
 	1    6600 1150
-	1    0    0    -1  
+	1    0    0    -1
 $EndComp
 Wire Wire Line
 	7050 1150 7350 1150
@@ -1233,7 +1231,7 @@ F 1 "VDD" H 5600 2150 50  0000 C CNN
 F 2 "" H 5600 2000 50  0000 C CNN
 F 3 "" H 5600 2000 50  0000 C CNN
 	1    5600 2000
-	1    0    0    -1  
+	1    0    0    -1
 $EndComp
 Wire Wire Line
 	6200 2150 6050 2150
@@ -1268,7 +1266,7 @@ F 1 "VDD" H 6650 7300 50  0000 C CNN
 F 2 "" H 6650 7150 50  0000 C CNN
 F 3 "" H 6650 7150 50  0000 C CNN
 	1    6650 7150
-	1    0    0    -1  
+	1    0    0    -1
 $EndComp
 Wire Wire Line
 	6650 7150 6650 7350
