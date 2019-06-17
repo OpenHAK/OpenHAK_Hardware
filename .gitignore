@@ -1,4 +1,7 @@
 *.bak
 *.ods
 OpenHAK_03-cache.lib
+OpenHAK_03.kicad_pcb-bak
+*.net
+
 
